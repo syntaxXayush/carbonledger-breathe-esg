@@ -8,8 +8,8 @@ A full-stack emissions data ingestion and review platform built for the **Breath
 
 ## 🚀 Live Demo
 
-> **Frontend (Vercel)**: _[Add your Vercel URL here]_  
-> **Backend API (Render)**: _[Add your Render/Railway URL here]_
+> **Frontend (Vercel)**: https://carbonledger-breathe-esg.vercel.app
+> **Backend API (Render)**: https://carbonledger-breathe-esg.onrender.com/api
 
 ---
 
